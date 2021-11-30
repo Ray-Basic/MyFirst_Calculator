@@ -92,7 +92,7 @@ struct Mybutton3_Zero: View {
             .foregroundColor(.white)
             .background(Color(hue: 1.0, saturation: 0.142, brightness: 0.082, opacity: 0.456))
             //.mask(Circle())
-            .cornerRadius(10)
+            .cornerRadius(40)
             .frame(width: 45.0, height: 45.0, alignment: .center)
         }
     }
